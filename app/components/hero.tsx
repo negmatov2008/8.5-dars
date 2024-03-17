@@ -32,8 +32,9 @@ function Hero() {
         <img width={170} height={30} src="btn.svg" alt="" />
       </div>
       <div className="flex flex-col gap-[30px]">
-        {[1,2,3,4,5,6,7,8,9].map(n=><Card/>)}
-       
+        {[1, 2, 3, 4, 5, 6, 7, 8, 9].map((n) => (
+          <Card key={n} />
+        ))}
       </div>
     </div>
   );

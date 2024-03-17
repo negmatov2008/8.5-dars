@@ -21,7 +21,7 @@ function Menyu() {
   return (
     <>
       <button onClick={(e) => handleSubmit(e)}>
-        <img ref={imgg} width={25} height={25} src="menu1.svg" alt="" />
+        <img width={25} height={25} ref={imgg}  src="menu1.svg" alt="" />
       </button>
       <div
         ref={menu}

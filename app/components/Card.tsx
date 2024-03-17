@@ -28,6 +28,7 @@ function Card() {
         />
       </svg>
       <img
+      width={97} height={29}
         className=" absolute top-[10px] z-40 right-[10px]"
         src="balkon.svg"
         alt=""
