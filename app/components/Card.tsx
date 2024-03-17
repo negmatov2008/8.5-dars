@@ -45,7 +45,7 @@ function Card() {
       />
       <img width={345} height={280} src="img.jpg" alt="" />
 
-      <div className="px-[14px] pt-[6px] bg-[#FFF] shadow-[0px_5px_10px_0px_rgba(0,_0,_0,_0.05)]">
+      <div className="px-[14px] pt-[6px] pb-[22px] bg-[#FFF] shadow-[0px_5px_10px_0px_rgba(0,_0,_0,_0.05)]">
         <span className="text-[#458BD1] mb-[15px] text-[18px]">
           Ул. Петра Мстиславца, 24
         </span>
@@ -98,8 +98,16 @@ function Card() {
             </div>
           </div>
         </div>
-        <div className="flex justify-between max-w-full">
-        <button className="flex "></button>
+        <div className="flex justify-between max-w-full items-center">
+          <button className="pt-[8px] pb-[10px] px-[45px] max-w-[160px] border border-[#458BD1] text-[#458BD1] text-[14px]">
+            Связаться
+          </button>
+          <div className="flex gap-[12px]">
+            <img width={24} height={24} src="m1.svg" alt="" />
+            <img width={24} height={24} src="m2.svg" alt="" />
+            <img width={24} height={24} src="m3.svg" alt="" />
+          </div>
+         
         </div>
       </div>
     </div>

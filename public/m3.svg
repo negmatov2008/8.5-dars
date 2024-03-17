@@ -1,0 +1,20 @@
+<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Telegram">
+<g id="Telegram_2">
+<path id="Oval" d="M12.625 24.3799C19.2524 24.3799 24.625 19.0073 24.625 12.3799C24.625 5.75247 19.2524 0.379883 12.625 0.379883C5.99758 0.379883 0.625 5.75247 0.625 12.3799C0.625 19.0073 5.99758 24.3799 12.625 24.3799Z" fill="url(#paint0_linear_1_14616)"/>
+<path id="Shape" d="M10.4242 17.8799C10.0355 17.8799 10.1015 17.7331 9.96744 17.3629L8.82422 13.6005L17.6242 8.37988" fill="#C8DAEA"/>
+<path id="Shape_2" d="M10.4258 17.8796C10.7258 17.8796 10.8583 17.7424 11.0258 17.5796L12.6258 16.0238L10.63 14.8203" fill="#A9C9DD"/>
+<path id="Shape_3" d="M10.6297 14.8206L15.4657 18.3935C16.0176 18.698 16.4158 18.5404 16.5533 17.8812L18.5218 8.60488C18.7233 7.79686 18.2138 7.43038 17.6859 7.67006L6.12686 12.1272C5.33785 12.4436 5.34245 12.8838 5.98304 13.08L8.94934 14.0058L15.8166 9.67329C16.1408 9.4767 16.4384 9.58239 16.1942 9.79913" fill="url(#paint1_linear_1_14616)"/>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear_1_14616" x1="9.6262" y1="1.38068" x2="3.6262" y2="15.3799" gradientUnits="userSpaceOnUse">
+<stop stop-color="#37AEE2"/>
+<stop offset="1" stop-color="#1E96C8"/>
+</linearGradient>
+<linearGradient id="paint1_linear_1_14616" x1="11.1235" y1="13.1167" x2="12.4057" y2="17.2642" gradientUnits="userSpaceOnUse">
+<stop stop-color="#EFF7FC"/>
+<stop offset="1" stop-color="white"/>
+</linearGradient>
+</defs>
+</svg>
